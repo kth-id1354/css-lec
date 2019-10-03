@@ -1,0 +1,13 @@
+.container {
+    position: relative;
+}
+
+h2.pos_left {
+    position: absolute;
+    left: -20px;
+}
+
+h2.pos_top {
+    position: absolute;
+    top: 80px;
+}

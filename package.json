@@ -1,0 +1,15 @@
+{
+  "name": "css-lec",
+  "version": "0.0.1",
+  "description": "CSS examples",
+  "scripts": {
+    "start-dev": "NODE_ENV=development && node_modules/nodemon/bin/nodemon.js src/server",
+    "start": "NODE_ENV=production && node_modules/nodemon/bin/nodemon.js src/server"
+  },
+  "author": "Leif Lindbäck",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}

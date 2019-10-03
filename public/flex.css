@@ -1,0 +1,19 @@
+.item {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    line-height: 100px;
+}
+
+.contr {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    width: 100%;
+    background-color: blue;
+}

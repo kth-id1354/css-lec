@@ -1,0 +1,8 @@
+#fixed {
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    background-color: blue;
+    left: 50%;
+    top: 10%;
+}
